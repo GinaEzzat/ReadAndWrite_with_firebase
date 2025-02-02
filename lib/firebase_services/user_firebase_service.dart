@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_firestore_project/firebase_model/userInfo.dart';
-// import 'package:firebase_firestore_project/firebase_model/userInfo.dart';
+
 
 class UserFirebaseService {
   var db = FirebaseFirestore.instance;
