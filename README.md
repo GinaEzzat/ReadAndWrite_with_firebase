@@ -33,4 +33,11 @@ model for the user by firestore.
 # UserFirebaseService
 has an instance of FirebaseFirestore and the getUserFromFirebase() function
 
+# firebase_project
+we create a project on firebase and connect it with the flutter project.
+we added the dependencies,
+then we build firestore database and initiate a collection to add documents to it.
+in rules we set read and write to true instead of false to be ble to add documents and get documents from the collection.
+
+
 
