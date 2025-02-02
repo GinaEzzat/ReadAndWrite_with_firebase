@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030234475415",
+    "project_id": "inputformproject",
+    "storage_bucket": "inputformproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030234475415:android:cf5ca382be18d73afb92d2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_firestore_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCepScsjKm-UiRxLHN5U2acmjxi5Ov8z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
